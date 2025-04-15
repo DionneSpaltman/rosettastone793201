@@ -32,8 +32,8 @@ available for download on LUISS learn webpage.
 
 ### Deadlines
 The following deadlines apply for the project:
-- March 13th: Submit your groups and preferences
-- Second week of April: Mid check of the project – via TAs Webex (luiss.webex.com/meet/fangeletti, luiss.webex.com/meet/ampanti)
+- DONE March 13th: Submit your groups and preferences 
+- DONE Second week of April: Mid check of the project – via TAs Webex (luiss.webex.com/meet/fangeletti, luiss.webex.com/meet/ampanti)
 - May 9th: Project pitch (final) – via TAs Webex (luiss.webex.com/meet/fangeletti, luiss.webex.com/meet/ampanti)
 - May 12th, 23:59: Final submission of the repository (Each group must submit via mail to
 gitaliano@luiss.it, fangeletti@luiss.it and ampanti@luiss.it, the URL of a GitHub repository)

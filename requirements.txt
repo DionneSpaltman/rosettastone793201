@@ -1,0 +1,32 @@
+# Run in terminal
+# pip install -r requirements.txt
+
+
+# Core packages
+numpy<2
+pandas
+scikit-learn
+
+# NLP tools
+spacy
+spacy-langdetect
+sentence-transformers
+bertopic
+
+# Language models
+torch
+transformers
+
+# Visualization (optional, useful for analysis)
+matplotlib
+seaborn
+plotly
+
+# conda install -c conda-forge spacy
+
+
+# Language model downloads
+# You will still need to run:
+# python -m spacy download ru_core_news_sm
+# python -m spacy download pl_core_news_sm
+# python -m spacy download zh_core_web_sm

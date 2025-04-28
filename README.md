@@ -29,3 +29,11 @@ The dataset consists of textual sentence pairs, requiring preprocessing steps su
 4. **Evaluation & Reporting**
    - Test the model on unseen data and analyze performance.
    - Prepare a comprehensive report on methodology and insights.
+
+RNN would maybe get us better results. With a LSTM (context and conceding and preceding words). It's not by chance that many powerful engines are using LSTM. They allow middle language that encapsulates the meaning from the different languages into the final. 
+
+They are expecting evaluation metrics. RMSE or MSE. 
+
+Directly apply a transformer to it. 
+
+Start with LSTM. Any problems? Ask us. Don't let it for the last problem. 

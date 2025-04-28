@@ -1,6 +1,13 @@
+# to be able to run this code, install the following packages
+# python -m spacy download pl_core_news_sm
+# python -m spacy download ru_core_news_sm
+# python -m spacy download zh_core_web_sm
+
+# Also make sure to have the right version of numpy 
+# pip install "numpy<2"
+
 import spacy
 import string
-
 
 nlp_dict ={
     "de": spacy.load("de_core_news_sm"),

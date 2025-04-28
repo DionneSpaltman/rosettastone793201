@@ -18,17 +18,23 @@ available for download on LUISS learn webpage.
 ### Assignment
 1. **Data Processing**  
    - Apply NLP techniques such as word embeddings, stemming, lemmatization, and stop-word removal.
+- You clean and prepare the raw text data so the model can understand it better.
+- Why? Raw text is messy — models need clean numerical inputs.
 
 2. **Data Augmentation**  
    - Enhance the dataset using paraphrasing techniques to improve model robustness.
+- Create new, slightly different versions of your existing sentences.
+- Why? It makes your model see more variations and generalize better to unseen sentences.
 
 3. **Model Development**  
    - Design a Neural Network for sentence similarity measurement.  
    - Experiment with different architectures (e.g., transformers, LSTMs).
+- Build a deep learning model that can compare two sentences and predict how similar they are.
 
 4. **Evaluation & Reporting**  
    - Test the model on unseen data and analyze performance.  
    - Prepare a comprehensive report on methodology and insights.
+- Explain what you did at each step: How you cleaned data, how you augmented it, What model you built (with hyperparameters), Results and what you learned, Include graphs if you can (loss curves, confusion matrix, etc.).
 
 ### Deadlines
 The following deadlines apply for the project:

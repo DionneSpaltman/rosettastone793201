@@ -64,22 +64,22 @@ Describe any experiments you conducted to demonstrate/validate the target contri
 
 ### 4.1 Results experiment 1: Comparison ANN vs ANN with transformer
 
-! [Graph: regular ANN (without Transformer)](images/Regular_ANN_graph.png)
+![Graph: regular ANN (without Transformer)](images/Regular_ANN_graph.png)
 
 
-! [Graph: ANN with Transformer](images/ANN_with_sentence_transformer_graph.jpeg)
+![Graph: ANN with Transformer](images/ANN_with_sentence_transformer_graph.jpeg)
 
 
 ### 4.2 Results experiment 2: Comparison RNN vs RNN with transformer
 
-! [Graph: RNN (LTSM)](images/...)
+![Graph: RNN (LTSM)](images/...)
 
 
-! [Graph: RNN with Transformer](images/RNN_with_transformers_graph.png)
+![Graph: RNN with Transformer](images/RNN_with_transformers_graph.png)
 
 ### 4.3 Results experiment 3: Comparison Transformer vs other models 
 
-! [Graph: Transformer](images/Transformers_graphs.jpeg)
+![Graph: Transformer](images/Transformers_graphs.jpeg)
 
 ---
 

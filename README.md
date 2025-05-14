@@ -1,7 +1,9 @@
 # Rosetta Stone 2
 
 **Machine Learning**
+
 **Luiss Guido Carli**
+
 **Team Members:**  
 - Daniele Biggi (793201)
 - Ezgim Burcak Akseki (803311)

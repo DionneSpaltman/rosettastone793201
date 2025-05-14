@@ -62,6 +62,10 @@ Describe any experiments you conducted to demonstrate/validate the target contri
 - All the figures containing results should be generated from the code.
 
 
+### 4.1 Results experiment 1: Comparison ANN vs ANN with transformer
+
+![Graph: regular ANN (without Transformer)](images/Regular ANN graph.png)
+
 ---
 
 ## 4. Conclusions

@@ -1,8 +1,8 @@
 # Rosetta Stone 2
 
-**Machine Learning**
+**Course:** Machine Learning 
 
-**Luiss Guido Carli**
+**University:** Luiss Guido Carli
 
 **Team Members:**  
 - Daniele Biggi (793201)

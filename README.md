@@ -1,13 +1,15 @@
 # Rosetta Stone 2
 
+**Machine Learning**
+**Luiss Guido Carli**
 **Team Members:**  
 - Daniele Biggi (793201)
 - Ezgim Burcak Akseki (803311)
 - Dionne Spaltman (Q00149)
 
----
-
 Link to the sharepoint with the csv files: https://luiss-my.sharepoint.com/:f:/g/personal/dionne_spaltman_studenti_luiss_it/EiQz9X4xtYFCiIIqqVgeKJQBlsFhFWYNNqEzw2SiumfFHw?e=4BFULf 
+
+---
 
 ## 1. Introduction
 
@@ -33,6 +35,7 @@ In the second part of the data augmentation we will go from a dataframe with two
 ### 1.4 Model Architecture
 For this project, we made 5 models: a transformer-based model, a Recurrent Neural Network (RNN), a RNN with transformers that uses the embeddings created by Sentence Transformer, a Artificial Neural Network (ANN), and finally a ANN with transformers. 
 
+---
 
 ## 2. Methods
 

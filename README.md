@@ -7,6 +7,8 @@
 
 ---
 
+Link to the sharepoint with the csv files: https://luiss-my.sharepoint.com/:f:/g/personal/dionne_spaltman_studenti_luiss_it/EiQz9X4xtYFCiIIqqVgeKJQBlsFhFWYNNqEzw2SiumfFHw?e=4BFULf 
+
 ## 1. Introduction
 
 Briefly describe your project: its main goal, the problem you aim to solve, and the motivation behind it.  

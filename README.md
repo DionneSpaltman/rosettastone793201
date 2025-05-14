@@ -72,7 +72,7 @@ Describe any experiments you conducted to demonstrate/validate the target contri
 
 ### 4.2 Results experiment 2: Comparison RNN vs RNN with transformer
 
-![Graph: RNN (LTSM)](images/...)
+![Graph: RNN (LTSM)](images/RNN_graph.jpeg)
 
 
 ![Graph: RNN with Transformer](images/RNN_with_transformers_graph.png)

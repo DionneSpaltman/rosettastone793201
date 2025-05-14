@@ -2,7 +2,7 @@
 
 **Team Members:**  
 - Daniele Biggi (793201)
-- Ezgim 
+- Ezgim Burcak Akseki (803311)
 - Dionne Spaltman (Q00149)
 
 ---

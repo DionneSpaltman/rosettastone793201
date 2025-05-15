@@ -61,6 +61,14 @@ Describe any experiments you conducted to demonstrate/validate the target contri
 - Include at least one placeholder figure and/or table for communicating your findings.
 - All the figures containing results should be generated from the code.
 
+| Model                  | MSE (Mean Squared Error) | MAE (Mean Absolute Error) | MAPE (Mean Absolute Percentage Error) | R squared | Pearson Correlation | Spearman Correlation |
+|------------------------|--------------------------|----------------------------|----------------------------------------|-----------|----------------------|-----------------------|
+| Regular ANN            | 0.549                    | 0.511                      | 2.570e+16                               | 0.751     | 0.867               | 0.866                |
+| ANN with Transformer   | 0.199                    | 0.335                      | 1.331e+13                               | 0.910     | 0.967               | 0.956                |
+| RNN (LSTM)             | 0.290                    | 0.329                      | 1.640e+14                               | 0.869     | 0.932               | 0.933                |
+| RNN with Transformer   | **0.106**                | **0.235**                  | **7.191e+12**                           | **0.952** | **0.976**           | **0.975**            |
+| Transformer            | NAN                      | -                          | -                                      | -         | -                   | -                    |
+
 
 ### 4.1 Results experiment 1: Comparison ANN vs ANN with transformer
 

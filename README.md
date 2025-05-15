@@ -111,29 +111,30 @@ In the table below, you can find the results of the models. The best performing 
 ### 4.2 Results experiment 1: Comparison RNN vs RNN with embeddings from SentenceTransformer
 Similarly to experiment 1, the RNN starts at a higher loss (1.2) which drops to 0.3 by the last epoch, and the RNN implemented with a Transformer starts lower (0.7) and drops to around 0.1 The gap between the training and validation loss of the regular RNN might indicate that our model is overfitting, whereas the second implementation shows a better generalization, as can be seen by the lines being much closer to each other. As for the MAE, the regular RNN starts around 0.85 and decreases to 0.35. The RNN with Transformer starts lower at 0.65 and drops to 0.25. Finally, we can conclude that the RNN with Transformer outperforms the standard RNN in terms of the MSE loss and the MAE. It has lower errors and seems to be generalizing better.
 
+*Graph RNN (LTSM)*
 ![Graph: RNN (LTSM)](images/RNN_graph.jpeg)
 
-
+*Graph RNN with embeddings from SentenceTransformer*
 ![Graph: RNN with embeddings from SentenceTransformer](images/RNN_with_transformers_graph.png)
 
 
 ### 4.3 Results experiment 2: Comparison ANN vs ANN with embeddings from SentenceTransformer vs ‘Streaming’ ANN
 In the graphs below you can find the results of the ANN and the ANN implemented with a transformer. The first thing you can see is that the loss of the regular ANN starts much higher (around 1.7) and that it decreases to around 0.5. For the second ANN, the loss starts much lower (around 0.8) and it decreases to around 0.2. Here there isn’t so much of a gap between the train and validation loss, which is the case for the regular ANN. In addition, the MAE of the regular ANN starts around 1.1 and decreases until 0.5. For the second implementation of the ANN, the MAE starts lower at 0.65 and drops to 0.33. We can conclude that the model with the Transformer learns faster and achieves a lower MSE than the regular ANN. It also outperforms the regular ANN in terms of the MSE.  # Adjust this text to include results from third ANN
 
-
+*Graph ANN*
 ![Graph: ANN](images/Regular_ANN_graph.png)
 
-
+*Graph ANN with embeddings from SentenceTransformer*
 ![Graph: ANN with embeddings from SentenceTransformer](images/ANN_with_sentence_transformer_graph.jpeg)
 
-
+*Graph 'Streaming' ANN*
 ![Graph: 'Streaming' ANN](images/ANN_streaming_graph.jpeg)
 
 
 ### 4.3 Results experiment 3: Comparison Transformer vs other models 
 Unfortunately, we are not able to compare the Transformer model well with the other models. But we can say something about the loss and accuracy of the first epoch of our model. What the graph tells us is that the initial loss starts high, which makes sense since the model hasn’t learned anything yet. Then the loss decreases quite quickly in the first few batches, but after about 20 batches the loss differs between 0.08 and 0.16, with no clear trend for the rest of the epoch. What we can conclude from this is that one epoch is clearly not enough to see any improvement. The fact that the loss stabilized quite early could indicate that we didn’t tune our model well enough. 
 
-
+*Graph Transformer*
 ![Graph: Transformer](images/Transformers_graphs.jpeg)
 
 

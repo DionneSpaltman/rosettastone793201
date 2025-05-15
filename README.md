@@ -11,6 +11,8 @@
 
 Link to the sharepoint with the csv files: https://luiss-my.sharepoint.com/:f:/g/personal/dionne_spaltman_studenti_luiss_it/EiQz9X4xtYFCiIIqqVgeKJQBlsFhFWYNNqEzw2SiumfFHw?e=4BFULf 
 
+Link to the google drive folder with the pickle file with the embeddings: https://drive.google.com/file/d/1G3XhqNqrnVczJgZKoRxzp9oyDY0Fl5is/view?usp=sharing 
+
 ---
 
 ## 1. Introduction
